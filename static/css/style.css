@@ -50,7 +50,9 @@ h2{
 }
 
 .main-content p{
-    
+    font-size: 15px;
+    line-height: 13px;
+    letter-spacing: 1px;
 }
 
 
