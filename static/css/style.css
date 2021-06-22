@@ -65,7 +65,11 @@ h2{
 
 
 .service-content .service h1{
-    
+    top: 150px;
+    color: #fff;
+    text-align: center;
+    font-weight: lighter;
+    position: relative;
 }
 
 
