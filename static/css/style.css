@@ -4,7 +4,10 @@
     font-family: sans-serif;
 }
 
-body
+body{
+    height: 50vh;
+    
+}
 
 
 
