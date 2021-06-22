@@ -108,7 +108,11 @@ h2{
 }
 
 
-
+.imgg-image{
+    margin-top: 350px;
+    max-width: 100%;
+    position: relative;
+}
 
 
 
