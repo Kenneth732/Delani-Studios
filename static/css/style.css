@@ -44,7 +44,9 @@ h2{
 }
 
 .main-content{
-    
+    text-align: center;
+    position: relative;
+    margin-top: 25%;
 }
 
 
