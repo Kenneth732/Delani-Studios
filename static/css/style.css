@@ -22,7 +22,10 @@ body{
     position: relative;
 }
 
-.container .header .main .logo-img h1{}
+.container .header .main .logo-img h1{
+    color: #fff;
+    text-align: center;
+}
 
 
 
