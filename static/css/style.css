@@ -56,7 +56,12 @@ h2{
 }
 
 
-.service-content .service{}
+.service-content .service{
+    background: url(/static/img/comp.jpg);
+    height: 400px;
+    margin-top: 30px;
+    position: relative;
+}
 
 
 
